@@ -5,6 +5,7 @@ import { faGoogle, faFacebook } from '@fortawesome/free-brands-svg-icons'
 const Home = () => {
     return (
         <div>
+            <br/><br/>
             <img src={profpic} alt="Profile" width={500} height={300}/>;
             <h1>アーニャ・フォージャー</h1>
             <h2>Anya Forger
